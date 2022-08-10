@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nwaruv
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on software experts in order for me to gain maximum knowledge in software development
+- 💞️ I’m looking to collaborate with software experts in order for me to gain maximum knowledge in software development
 - 📫 How to reach me nwaruchukwudivictor@gmail.com
 
 <!---
